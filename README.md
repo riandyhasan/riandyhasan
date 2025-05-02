@@ -1,7 +1,5 @@
 ### Hi there 👋 My name is Riandy Hasan
 
-An undergraduate student with a passion for information technology and entrepreneurship. Experienced in frontend and backend development, I love collaborating with others to build innovative solutions. I thrive in collaborative environments, leveraging my technical skills to contribute to the team's success. With a strong interest in entrepreneurship, I seek opportunities to apply technology to create impactful businesses. Eager to learn and make a positive impact, I am ready for new challenges in building something meaningful.
-
 ## Tech Stack
 
 ### Programming Languages
